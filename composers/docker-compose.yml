@@ -1,0 +1,5 @@
+version: "3.5"
+services:
+    forasna-mysql:
+        image: debian-mysql8-shell
+        container_name: mysql-shell
